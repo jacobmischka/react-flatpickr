@@ -1,5 +1,5 @@
 {
-  "name": "react-flatpickr",
+  "name": "@jacobmischka/react-flatpickr",
   "version": "3.1.0",
   "description": "flatpickr for React",
   "main": "build/index.js",
